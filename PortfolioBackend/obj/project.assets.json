@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JulianDvorak\\RiderProjects\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj",
+      "projectUniqueName": "C:\\Users\\JulianDvorak\\Documents\\Private Projects\\Dev-Ju\\portfolio-backend\\PortfolioBackend\\PortfolioBackend.csproj",
       "projectName": "PortfolioBackend",
-      "projectPath": "C:\\Users\\JulianDvorak\\RiderProjects\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj",
+      "projectPath": "C:\\Users\\JulianDvorak\\Documents\\Private Projects\\Dev-Ju\\portfolio-backend\\PortfolioBackend\\PortfolioBackend.csproj",
       "packagesPath": "C:\\Users\\JulianDvorak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JulianDvorak\\RiderProjects\\PortfolioBackend\\PortfolioBackend\\obj\\",
+      "outputPath": "C:\\Users\\JulianDvorak\\Documents\\Private Projects\\Dev-Ju\\portfolio-backend\\PortfolioBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
